@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhashish Pothal</h1>
-<h3 align="center">A aspiring AI/ML Engineer</h3>
+<h3 align="center">An aspiring AI/ML Engineer</h3>
 
 - 🔭 I’m currently working on **Retrieval-Augmented Generation**
 
